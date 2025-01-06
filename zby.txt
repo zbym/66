@@ -62,9 +62,9 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 黑莓电影,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?
 欢笑剧场,http://[2409:8087:5e08:25::2]:6610/000000001000/5000000002000009455/index.m3u8?
 都市剧场,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031111/index.m3u8?
-快乐垂钓,http://[2409:8087:5e00:24::27]:6610/000000001000/5000000011000031206/index.m3u8?
+快乐垂钓,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031206/index.m3u8?
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
-CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 
 林正英,https://stream1.freetv.fun/0940f3ea60b3d66121d80318a6bffa531991cffec08c89f2c8ff3ac30bcc8e95.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
