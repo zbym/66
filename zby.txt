@@ -65,6 +65,7 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 快乐垂钓,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031206/index.m3u8?
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
+CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
 林正英,https://stream1.freetv.fun/0940f3ea60b3d66121d80318a6bffa531991cffec08c89f2c8ff3ac30bcc8e95.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
