@@ -57,7 +57,7 @@ CCTV-17,http://a21709.tv.netsite.cc/proxy/199561397/199561397.m3u8
 青海卫视,http://a21709.tv.netsite.cc/proxy/1152127449/1152127449.m3u8
 
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
-CHC家庭影院，http://z.b.bkpcp.top/m.php?id=jtyy
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 
 林正英,https://stream1.freetv.fun/0940f3ea60b3d66121d80318a6bffa531991cffec08c89f2c8ff3ac30bcc8e95.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
