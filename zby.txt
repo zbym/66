@@ -1,5 +1,5 @@
 直播,#genre#
-CCTV-1,http://a21709.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
+CCTV-1,http://ljiang.myqnapcloud.com:8123/udp/239.93.0.184:5140
 CCTV-2,http://a21709.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
 CCTV-4,http://a21709.tv.netsite.cc/proxy/1431251767/1431251767.m3u8
 CCTV-5,http://a21709.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
