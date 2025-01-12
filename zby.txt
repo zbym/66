@@ -6,7 +6,7 @@ CCTV3,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/20240
 CCTV4,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
 CCTV5,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
 CCTV5+,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
-CCTV6,http://58.222.30.156/sx.v.smtcdns.net/mobileliveali-cdn.ysp.cctv.cn/ysp/2013693901.m3u8
+CCTV6,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574303.m3u8
 CCTV7,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
 CCTV8,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078503.m3u8
 CCTV9,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
