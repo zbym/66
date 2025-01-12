@@ -1,5 +1,5 @@
 直播,#genre#
-CCTV1,https://hlszymgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/01.m3u8?msisdn=0c98b0bc-6bd8-4602-9376-1fc3ccc75b8c&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20250112004352&Channel_ID=0131_10010001005&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=240e:330:114c:1b86:d6da:21ff:fe13:f70d&SecurityKey=20250112004352&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-7.12.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&conFee=0&mtv_session=e5419a1807314f3a5aeaf997f6b044f8&sv=10000&ct=h5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=635dbf54117af084fa33ea5e7a21e08c
+CCTV1,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=2025
 CCTV2,http://tv6.blcu.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/fa982ec09f-0-0-831523384e50739e7a67b1110653f3b4/index.m3u8
 CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
 CCTV4,http://tv6.blcu.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/959aa8a295-0-0-85fd4af1adaffb21bbbaae6e6dd9a062/index.m3u8
