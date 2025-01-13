@@ -2,7 +2,7 @@
 CCTV1,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
 CCTV1,http://58.222.30.156/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078226.m3u8
 CCTV2,https://stream1.freetv.fun/13d0211c9d0e6ac956f262af910b0509c7565f9f7f3f5a674a33d40b534a7cc1.m3u8
-CCTV3,https://stream1.freetv.fun/e5f3717cbed928c22780a71177bd21518f3137e3d1728e940d37d0f9f2ed7b4e.m3u8
+CCTV3,https://stream1.freetv.fun/1e0e775744a98d3524e67d4b4da0a9bc3c0b9cb9fbdf47fe76a0413a4089b940.m3u8
 CCTV4,https://stream1.freetv.fun/cctv4-63.m3u8
 CCTV5,https://stream1.freetv.fun/1fb410350d0e3242e8daa58e881a026638b4312e90abbb03d5ea0c06b19bbb0b.m3u8
 CCTV5+,https://stream1.freetv.fun/5e9c11cb6794dcec919f0b124e576aefaf8e77b2173f5f7fdf79dcaa11ab25ce.m3u8
