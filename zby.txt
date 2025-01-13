@@ -5,7 +5,7 @@ CCTV3,http://nas.zyylover.homes:35455/gaoma/cctv3.m3u8
 CCTV4,http://nas.zyylover.homes:35455/gaoma/cctv4.m3u8
 CCTV5,http://nas.zyylover.homes:35455/gaoma/cctv5.m3u8
 CCTV5+,http://nas.zyylover.homes:35455/gaoma/cctv5p.m3u8
-CCTV6,http://nas.zyylover.homes:35455/gaoma/cctv6.m3u8
+CCTV6,http://nas.zyylover.homes:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
 CCTV7,http://nas.zyylover.homes:35455/gaoma/cctv7.m3u8
 CCTV8,http://nas.zyylover.homes:35455/gaoma/cctv8.m3u8
 CCTV9,http://nas.zyylover.homes:35455/gaoma/cctv9.m3u8
@@ -49,7 +49,7 @@ CCTV17,http://nas.zyylover.homes:35455/gaoma/cctv17.m3u8
 西藏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=2
 
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
-CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 
 林正英,https://stream1.freetv.fun/0940f3ea60b3d66121d80318a6bffa531991cffec08c89f2c8ff3ac30bcc8e95.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
