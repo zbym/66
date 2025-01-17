@@ -1,6 +1,8 @@
 直播,#genre#
 CCTV-1综合, http://183.203.182.117:9616/hls/1/index.m3u8
+
 CCTV-2财经, http://183.203.182.117:9616/hls/2/index.m3u8
+
 CCTV-3综艺, http://183.66.15.146:60901/tsfile/live/0003_1.m3u8
 CCTV-4中文国际, http://183.203.182.117:9616/hls/4/index.m3u8
 CCTV-5体育,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8
