@@ -18,7 +18,8 @@ CCTV-15音乐, http://183.203.182.117:9616/hls/15/index.m3u8
 CCTV16,http://nas.zyylover.homes:35455/gaoma/cctv16.m3u8
 CCTV17,http://nas.zyylover.homes:35455/gaoma/cctv17.m3u8
 
-重庆卫视,http://nas.zyylover.homes:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
+重庆卫视,http://183.66.15.146:60901/tsfile/live/0018_1.m3u8
+重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
 北京卫视, http://183.203.182.117:9616/hls/16/index.m3u8
 东方卫视, http://183.203.182.117:9616/hls/17/index.m3u8
 安徽卫视, http://183.203.182.117:9616/hls/27/index.m3u8
