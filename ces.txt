@@ -1,1 +1,2 @@
 测试,rtp://226.0.2.152:9128
+CCTV17,http://aptv.kkmz.top/itv/1000000006000268004.m3u8?cdn=ystenlive
