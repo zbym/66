@@ -5,7 +5,7 @@ CCTV-3综艺, http://m.951688.xyz:35455/rptv/G_CCTV-3-CQ.m3u8?license=gitv
 CCTV-4中文国际, http://183.203.182.117:9616/hls/4/index.m3u8
 CCTV-5体育,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8
 CCTV-5+, http://183.203.182.117:9616/hls/5/index.m3u8
-CCTV-6电影, http://183.144.129.155:85/tsfile/live/0006_1.m3u8
+CCTV-6电影, https://www.freetv.top/migu/624878396.m3u8?migutoken=8e4f91b7950497f8570c74e50003b7fa23f6565c16a6b361ff855d3a969ddf7ea3826b04d20d76b6eeb472f0cb8b86284614a835429165709ec8c3055f8e9a7879e9594a4309b5d50f59f8a535
 CCTV-7军事农业, http://183.203.182.117:9616/hls/7/index.m3u8
 CCTV-8电视剧, http://220.170.241.204:9901/tsfile/live/0008_1.m3u8
 CCTV-9记录, http://183.203.182.117:9616/hls/9/index.m3u8
