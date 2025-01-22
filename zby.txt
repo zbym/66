@@ -18,7 +18,7 @@ CCTV-15音乐, http://183.203.182.117:9616/hls/15/index.m3u8
 CCTV16,http://tv.kmhlzxs.top:35455/gaoma/cctv16.m3u8
 CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 
-重庆卫视,http://1.198.10.61:9901/tsfile/live/0142_1.m3u8
+重庆卫视,http://1.197.80.120:85/tsfile/live/1001_1.m3u8
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8
 北京卫视, http://183.203.182.117:9616/hls/16/index.m3u8
 东方卫视, http://183.203.182.117:9616/hls/17/index.m3u8
