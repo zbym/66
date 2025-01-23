@@ -51,6 +51,6 @@ CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servi
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 
-林正英,https://stream1.freetv.fun/0940f3ea60b3d66121d80318a6bffa531991cffec08c89f2c8ff3ac30bcc8e95.m3u8
+林正英,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 李连杰,http://rihou.cc:555/huyad.php?id=11342390
 成龙,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
