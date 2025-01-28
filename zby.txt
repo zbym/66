@@ -1,49 +1,49 @@
 直播,#genre#
-CCTV-1综合, http://183.203.182.117:9616/hls/1/index.m3u8
-CCTV-2财经, http://183.203.182.117:9616/hls/2/index.m3u8
-CCTV-3综艺, http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4中文国际, http://183.203.182.117:9616/hls/4/index.m3u8
-CCTV-5体育,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8
-CCTV-5+, http://183.203.182.117:9616/hls/5/index.m3u8
-CCTV-6电影, http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7军事农业, http://183.203.182.117:9616/hls/7/index.m3u8
-CCTV-8电视剧, http://220.170.241.204:9901/tsfile/live/0008_1.m3u8
-CCTV-9记录, http://183.203.182.117:9616/hls/9/index.m3u8
-CCTV-10科教, http://183.203.182.117:9616/hls/10/index.m3u8
-CCTV-11戏曲, http://183.203.182.117:9616/hls/11/index.m3u8
-CCTV-12社会与法, http://183.203.182.117:9616/hls/12/index.m3u8
-CCTV-13新闻, http://183.203.182.117:9616/hls/13/index.m3u8
-CCTV-14少儿, http://183.203.182.117:9616/hls/14/index.m3u8
-CCTV-15音乐, http://183.203.182.117:9616/hls/15/index.m3u8
-CCTV16,
-CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+CCTV1,http://tvpull.careryun.com/tv/cctv1.m3u8
+CCTV2,http://tvpull.careryun.com/tv/cctv2.m3u8
+CCTV3,http://tvpull.careryun.com/tv/cctv3.m3u8
+CCTV4,http://tvpull.careryun.com/tv/cctv4.m3u8
+CCTV5,http://tvpull.careryun.com/tv/cctv5.m3u8
+CCTV5+,http://tvpull.careryun.com/tv/cctv5+.m3u8
+CCTV6,http://tvpull.careryun.com/tv/cctv6.m3u8
+CCTV7,http://tvpull.careryun.com/tv/cctv7.m3u8
+CCTV8,http://tvpull.careryun.com/tv/cctv8.m3u8
+CCTV9,http://tvpull.careryun.com/tv/cctv9.m3u8
+CCTV10,http://tvpull.careryun.com/tv/cctv10.m3u8
+CCTV11,http://tvpull.careryun.com/tv/cctv11.m3u8
+CCTV12,http://tvpull.careryun.com/tv/cctv12.m3u8
+CCTV13,http://tvpull.careryun.com/tv/cctv13.m3u8
+CCTV14,http://tvpull.careryun.com/tv/cctv14.m3u8
+CCTV15,http://tvpull.careryun.com/tv/cctv15.m3u8
+CCTV17,http://tvpull.careryun.com/tv/cctv17.m3u8
 
-重庆卫视,http://223.13.1.113:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视, http://183.203.182.117:9616/hls/16/index.m3u8
-东方卫视, http://183.203.182.117:9616/hls/17/index.m3u8
-安徽卫视, http://183.203.182.117:9616/hls/27/index.m3u8
-江苏卫视, http://183.203.182.117:9616/hls/30/index.m3u8
-浙江卫视, http://183.203.182.117:9616/hls/31/index.m3u8
-四川卫视, http://183.203.182.117:9616/hls/32/index.m3u8
-江西卫视, http://183.203.182.117:9616/hls/35/index.m3u8
-广东卫视, http://183.203.182.117:9616/hls/40/index.m3u8
-湖北卫视, http://183.203.182.117:9616/hls/36/index.m3u8
-湖南卫视, http://183.203.182.117:9616/hls/37/index.m3u8
-东南卫视, http://183.203.182.117:9616/hls/38/index.m3u8
-贵州卫视, http://183.203.182.117:9616/hls/39/index.m3u8
-黑龙江卫视, http://183.203.182.117:9616/hls/20/index.m3u8
-甘肃卫视, http://183.203.182.117:9616/hls/29/index.m3u8
-河北卫视, http://183.203.182.117:9616/hls/22/index.m3u8
-吉林卫视, http://183.203.182.117:9616/hls/18/index.m3u8
-辽宁卫视, http://183.203.182.117:9616/hls/19/index.m3u8
-天津卫视, http://183.203.182.117:9616/hls/25/index.m3u8
-河南卫视, http://183.203.182.117:9616/hls/26/index.m3u8
-山东卫视, http://183.203.182.117:9616/hls/23/index.m3u8
-山西卫视, http://183.203.182.117:9616/hls/24/index.m3u8
-陕西卫视, http://183.203.182.117:9616/hls/28/index.m3u8
-青海卫视, http://183.203.182.117:9616/hls/33/index.m3u8
-宁夏卫视, http://183.203.182.117:9616/hls/34/index.m3u8
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+重庆卫视,http://tvpull.careryun.com/tv/cn_cqws.m3u8
+东方卫视,http://tvpull.careryun.com/tv/dfws.m3u8
+湖南卫视,http://tvpull.careryun.com/tv/cn_hunws.m3u8
+浙江卫视,http://tvpull.careryun.com/tv/cn_zjws.m3u8
+江苏卫视,http://tvpull.careryun.com/tv/jsws.m3u8
+北京卫视,http://tvpull.careryun.com/tv/cn_bjws.m3u8
+深圳卫视,http://tvpull.careryun.com/tv/cn_szws.m3u8
+安徽卫视,http://tvpull.careryun.com/tv/ahws.m3u8
+广东卫视,http://tvpull.careryun.com/tv/gdws.m3u8
+湖北卫视,http://tvpull.careryun.com/tv/hbws.m3u8
+山东卫视,http://tvpull.careryun.com/tv/cn_sdws.m3u8
+江西卫视,http://tvpull.careryun.com/tv/jxws.m3u8
+海南卫视,http://tvpull.careryun.com/tv/hainws.m3u8
+黑龙江卫视,http://tvpull.careryun.com/tv/cn_hljws.m3u8
+东南卫视,http://tvpull.careryun.com/tv/cn_dnws.m3u8
+河北卫视,http://tvpull.careryun.com/tv/cn_hbws.m3u8
+四川卫视,http://tvpull.careryun.com/tv/cn_ahws.m3u8
+辽宁卫视,http://tvpull.careryun.com/tv/cn_lnws.m3u8
+河南卫视,http://tvpull.careryun.com/tv/cn_hnws.m3u8
+贵州卫视,http://tvpull.careryun.com/tv/cn_gzws.m3u8
+广西卫视,http://tvpull.careryun.com/tv/cn_gxws.m3u8
+吉林卫视,http://tvpull.careryun.com/tv/jlws.m3u8
+陕西卫视,http://tvpull.careryun.com/tv/sxws.m3u8
+天津卫视,http://tvpull.careryun.com/tv/cn_tjws.m3u8
+青海卫视,http://tvpull.careryun.com/tv/qhws.m3u8
+甘肃卫视,http://tvpull.careryun.com/tv/cn_gsws.m3u8
+新疆卫视,http://tvpull.careryun.com/tv/cn_xjws.m3u8
 
 金鹰卡通,http://220.170.241.204:9901/tsfile/live/1005_1.m3u8
 
