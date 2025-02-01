@@ -51,6 +51,6 @@ CCTV15-音乐,http://223.13.1.249:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 
-林正英,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+林正英,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 李连杰,http://rihou.cc:555/huyad.php?id=11342390
 成龙,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
