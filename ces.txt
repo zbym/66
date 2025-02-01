@@ -1,2 +1,2 @@
 直播,#genre#
-http://111.9.163.109:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+cctv,http://111.9.163.109:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
