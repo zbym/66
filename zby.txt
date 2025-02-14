@@ -61,6 +61,6 @@ CHC动作电影,http://ndnas.top:3300/udp/225.1.4.208:1261
 CHC家庭影院,http://ndnas.top:3300/udp/225.1.4.209:1262
 CHC影迷电影,http://mt2018.iask.in:55555/udp/239.200.201.34:8148
 
-林正英,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-李连杰,https://cdn3.jdshipin.com/huyaqp.php?id=11342390
-成龙,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
+林正英,http://rihou.cc:555/huyad.php?id=11342421
+李连杰,http://rihou.cc:555/huyad.php?id=11342390
+成龙,https://stream1.freetv.fun/909bab06974c7efca4ff1eb116c03d1a5ef77826178412eba3cf07d67e93b77e.ctv
