@@ -19,6 +19,14 @@ CCTV16-奥林匹克,http://39.134.3.73:6610/000000001666/100000000100111091/1.m3
 CCTV17-农业农村,http://39.134.3.73:6610/000000001666/100000000100111016/1.m3u8
 
 重庆卫视,http://39.134.3.73:6610/000000001666/100000000100111017/1.m3u8
+重庆新闻,https://live.mxdyeah.top/live.php?id=CQTVNewsHD
+重庆影视,https://live.mxdyeah.top/live.php?id=cqyingshiHD
+重庆社会与法,https://live.mxdyeah.top/live.php?id=CQTVTrendyHD
+重庆时尚生活,https://live.mxdyeah.top/live.php?id=cqssgwHD
+重庆文体娱乐,https://live.mxdyeah.top/live.php?id=cqwtylHD
+重庆新农村,https://live.mxdyeah.top/live.php?id=cqggncHD
+重庆少儿,https://live.mxdyeah.top/live.php?id=cqseHD
+重庆科教,https://live.mxdyeah.top/live.php?id=CQTVkejiaoHD
 东方卫视,http://39.134.3.73:6610/000000001666/100000000100111024/1.m3u8
 北京卫视,http://39.134.3.73:6610/000000001666/100000000100111018/1.m3u8
 广东卫视,http://39.134.3.73:6610/000000001666/100000000100111019/1.m3u8
