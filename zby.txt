@@ -18,6 +18,14 @@ CCTV15-音乐,http://39.134.3.73:6610/000000001666/100000000100111015/1.m3u8
 CCTV16-奥林匹克,http://39.134.3.73:6610/000000001666/100000000100111091/1.m3u8
 CCTV17-农业农村,http://39.134.3.73:6610/000000001666/100000000100111016/1.m3u8
 
+第一剧场,https://live.mxdyeah.top/live.php?id=diyijuchangHD
+风云剧场,https://live.mxdyeah.top/live.php?id=fyjcHD
+怀旧剧场,https://live.mxdyeah.top/live.php?id=hjjcHD
+风云音乐,https://live.mxdyeah.top/live.php?id=fyyyHD
+央视台球,https://live.mxdyeah.top/live.php?id=ystqHD
+风云足球,https://live.mxdyeah.top/live.php?id=fyzqHD
+兵器科技,https://live.mxdyeah.top/live.php?id=bqkjHD
+
 重庆卫视,http://39.134.3.73:6610/000000001666/100000000100111017/1.m3u8
 重庆新闻,https://live.mxdyeah.top/live.php?id=CQTVNewsHD
 重庆影视,https://live.mxdyeah.top/live.php?id=cqyingshiHD
@@ -65,6 +73,9 @@ CCTV17-农业农村,http://39.134.3.73:6610/000000001666/100000000100111016/1.m3
 优漫卡通,http://39.134.3.73:6610/000000001666/100000000100111047/1.m3u8
 哈哈炫动,http://39.134.3.73:6610/000000001666/100000000100111048/1.m3u8
 
+CHC动作电影,https://live.mxdyeah.top/live.php?id=chcdzdyHD
+CHC家庭影院,https://live.mxdyeah.top/live.php?id=chcjtyyHD
+CHC影迷电影,https://live.mxdyeah.top/live.php?id=chcgqdyHD
 黑莓电影,http://39.134.3.73:6610/000000001666/100000000100111064/1.m3u8
 超级电影,http://39.134.3.73:6610/000000001666/100000000100111006/1.m3u8
 超级电视剧,http://39.134.3.73:6610/000000001666/100000000100111008/1.m3u8
