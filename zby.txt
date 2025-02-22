@@ -18,23 +18,14 @@ CCTV15-音乐,http://39.134.3.73:6610/000000001666/100000000100111015/1.m3u8
 CCTV16-奥林匹克,http://39.134.3.73:6610/000000001666/100000000100111091/1.m3u8
 CCTV17-农业农村,http://39.134.3.73:6610/000000001666/100000000100111016/1.m3u8
 
-第一剧场,https://live.mxdyeah.top/live.php?id=diyijuchangHD
-风云剧场,https://live.mxdyeah.top/live.php?id=fyjcHD
-怀旧剧场,https://live.mxdyeah.top/live.php?id=hjjcHD
-风云音乐,https://live.mxdyeah.top/live.php?id=fyyyHD
-央视台球,https://live.mxdyeah.top/live.php?id=ystqHD
-风云足球,https://live.mxdyeah.top/live.php?id=fyzqHD
-兵器科技,https://live.mxdyeah.top/live.php?id=bqkjHD
+第一剧场,https://byte.live.cbncdn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8?p=3073&sign=0e573d1d2d851b7f5673fe51ef40fb3e&t=1740257570
+风云剧场,https://byte.live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8?p=3073&sign=2c400056083bf4cc1f05ee680d10a9fe&t=1740257615
+怀旧剧场,https://byte.live.cbncdn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8?p=3073&sign=aca0ae20e4e642e240914bc766d7ddf1&t=1740257634
 
 重庆卫视,http://39.134.3.73:6610/000000001666/100000000100111017/1.m3u8
-重庆新闻,https://live.mxdyeah.top/live.php?id=CQTVNewsHD
-重庆影视,https://live.mxdyeah.top/live.php?id=cqyingshiHD
-重庆社会与法,https://live.mxdyeah.top/live.php?id=CQTVTrendyHD
-重庆时尚生活,https://live.mxdyeah.top/live.php?id=cqssgwHD
-重庆文体娱乐,https://live.mxdyeah.top/live.php?id=cqwtylHD
-重庆新农村,https://live.mxdyeah.top/live.php?id=cqggncHD
-重庆少儿,https://live.mxdyeah.top/live.php?id=cqseHD
-重庆科教,https://live.mxdyeah.top/live.php?id=CQTVkejiaoHD
+重庆新闻,https://byte.live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?p=3073&sign=1a34d7fd08f321d91d78ef8b2d7b7a17&t=1740257674
+重庆影视,https://byte.live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?p=3073&sign=43c2013ef0ce615debfd53a435d2f5af&t=1740257693
+重庆文体娱乐,https://byte.live.cbncdn.cn/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8?p=3073&sign=325da65e57260c3d229571c5c7eb49e3&t=1740257750
 东方卫视,http://39.134.3.73:6610/000000001666/100000000100111024/1.m3u8
 北京卫视,http://39.134.3.73:6610/000000001666/100000000100111018/1.m3u8
 广东卫视,http://39.134.3.73:6610/000000001666/100000000100111019/1.m3u8
@@ -73,9 +64,9 @@ CCTV17-农业农村,http://39.134.3.73:6610/000000001666/100000000100111016/1.m3
 优漫卡通,http://39.134.3.73:6610/000000001666/100000000100111047/1.m3u8
 哈哈炫动,http://39.134.3.73:6610/000000001666/100000000100111048/1.m3u8
 
-CHC动作电影,https://live.mxdyeah.top/live.php?id=chcdzdyHD
-CHC家庭影院,https://live.mxdyeah.top/live.php?id=chcjtyyHD
-CHC影迷电影,https://live.mxdyeah.top/live.php?id=chcgqdyHD
+CHC动作电影,https://byte.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8?p=3073&sign=64d1fb17f22fe38c89d1a277a0bf97e2&t=1740257774
+CHC家庭影院,https://byte.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8?p=3073&sign=1edc007ecbb61575dde8727385f5ab33&t=1740257829
+CHC影迷电影,https://byte.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8?p=3073&sign=3e9c3d69aadff4afd8b0e223e7d60c39&t=1740257852
 黑莓电影,http://39.134.3.73:6610/000000001666/100000000100111064/1.m3u8
 超级电影,http://39.134.3.73:6610/000000001666/100000000100111006/1.m3u8
 超级电视剧,http://39.134.3.73:6610/000000001666/100000000100111008/1.m3u8
