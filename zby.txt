@@ -68,6 +68,6 @@ CCTV17-农业农村,http://39.134.3.73:6610/000000001666/100000000100111016/1.m3
 军旅剧场,http://39.134.3.73:6610/000000001666/100000000100111058/1.m3u8
 家庭剧场,http://39.134.3.73:6610/000000001666/100000000100111059/1.m3u8
 
-林正英,http://rihou.cc:555/huyad.php?id=11342421
-李连杰,http://rihou.cc:555/huyad.php?id=11342390
+林正英,https://hw-flv-web.yy.com/live/15013_xv_1354932444_1354932444_0_0_0-15013_xa_1354932444_1354932444_0_0_0-0-0-0-0-0-1740388116714491.flv?codec=orig&appid=15013&rts_tk=d2e45f1acd0173aa2b9b096473d5c427&secret=e1cb525883ddf86c677f73cb0d7ebfa0&t=1740391865&stream_key=15013_xv_1354932444_1354932444_0_0_0&r_stream_key=15013_xa_1354932444_1354932444_0_0_0&channelid=1354932444&mtk=1&line_seq=7&cp_id=0&rts=1&ctx=eyJydHNfYXV0aCI6MiwiZGVmX3Bhc3MiOjF9&r=enter
+李连杰,https://cdn3.jdshipin.com/huyaqp.php?id=11342390
 成龙,http://rihou.cc:555/huyad.php?id=11342386
