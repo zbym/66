@@ -67,6 +67,4 @@ CCTV17-农业农村,http://39.134.3.73:6610/000000001666/100000000100111016/1.m3
 军旅剧场,http://39.134.3.73:6610/000000001666/100000000100111058/1.m3u8
 家庭剧场,http://39.134.3.73:6610/000000001666/100000000100111059/1.m3u8
 
-CHC动作电影,https://live.mxdyeah.top/live.php?id=chcdzdyHD
-CHC家庭影院,https://live.mxdyeah.top/live.php?id=chcjtyyHD
-CHC影迷电影,https://live.mxdyeah.top/live.php?id=chcgqdyHD
+李连杰,https://hw.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.flv?wsSecret=38d7e17272bf2848a105f1bbb9f81986&wsTime=67c904a1&u=1469080534575&seqid=17411407697635455&txyp=o:wx6;&sphdcdn=&sphdDC=&sphd=&exsphd=&ratio=0
