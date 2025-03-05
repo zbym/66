@@ -18,9 +18,6 @@ CCTV15-音乐,http://39.134.3.73:6610/000000001666/100000000100111015/1.m3u8
 CCTV16-奥林匹克,http://39.134.3.73:6610/000000001666/100000000100111091/1.m3u8
 CCTV17-农业农村,http://39.134.3.73:6610/000000001666/100000000100111016/1.m3u8
 
-第一剧场,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-风云剧场,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-怀旧剧场,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 
 重庆卫视,http://39.134.3.73:6610/000000001666/100000000100111017/1.m3u8
 东方卫视,http://39.134.3.73:6610/000000001666/100000000100111024/1.m3u8
@@ -70,6 +67,6 @@ CCTV17-农业农村,http://39.134.3.73:6610/000000001666/100000000100111016/1.m3
 军旅剧场,http://39.134.3.73:6610/000000001666/100000000100111058/1.m3u8
 家庭剧场,http://39.134.3.73:6610/000000001666/100000000100111059/1.m3u8
 
-CHC动作电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC家庭影院,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC影迷电影,http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC动作电影,https://live.mxdyeah.top/live.php?id=chcdzdyHD
+CHC家庭影院,https://live.mxdyeah.top/live.php?id=chcjtyyHD
+CHC影迷电影,https://live.mxdyeah.top/live.php?id=chcgqdyHD
