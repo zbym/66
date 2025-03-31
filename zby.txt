@@ -44,15 +44,17 @@ CCTV-16奥林匹克,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV
 宁夏卫视, http://183.203.182.117:9616/hls/34/index.m3u8
 新疆卫视,http://39.164.160.249:9901/tsfile/live/0110_1.m3u8
 内蒙古卫视,http://183.203.182.117:9616/hls/21/index.m3u8
-少儿动画,http://183.66.15.146:60901/tsfile/live/0140_2.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://183.66.15.146:60901/tsfile/live/0117_2.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://183.66.15.146:60901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷动画,http://183.66.15.146:60901/tsfile/live/0126_2.m3u8?key=txiptv&playlive=1&authid=0
+少儿动画,http://183.66.15.146:60901/tsfile/live/0140_2.m3u8
+金鹰卡通,http://183.66.15.146:60901/tsfile/live/0117_2.m3u8
+嘉佳卡通,http://183.66.15.146:60901/tsfile/live/0119_1.m3u8
+卡酷动画,http://183.66.15.146:60901/tsfile/live/0126_2.m3u8
+CHC动作电影,http://27.41.250.13:801/hls/523/index.m3u8
+CHC家庭影院,http://27.41.250.13:801/hls/525/index.m3u8
 北京淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 北京淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 超级电影,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
-经典电影,http://183.66.15.146:60901/tsfile/live/0111_2.m3u8?key=txiptv&playlive=1&authid=0
-喜剧影院,http://183.66.15.146:60901/tsfile/live/0109_2.m3u8?key=txiptv&playlive=1&authid=0
-动作影院,http://183.66.15.146:60901/tsfile/live/0110_2.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://183.66.15.146:60901/tsfile/live/0111_2.m3u8
+喜剧影院,http://183.66.15.146:60901/tsfile/live/0109_2.m3u8
+动作影院,http://183.66.15.146:60901/tsfile/live/0110_2.m3u8
 华数电影,http://183.203.182.117:9616/hls/6/index.m3u8
 电视剧,http://183.203.182.117:9616/hls/8/index.m3u8
