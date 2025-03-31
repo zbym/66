@@ -10,11 +10,11 @@ CCTV-7军事农业, http://183.203.182.117:9616/hls/7/index.m3u8
 CCTV-8电视剧, http://183.66.15.146:60901/tsfile/live/0008_1.m3u8
 CCTV-9记录, http://183.203.182.117:9616/hls/9/index.m3u8
 CCTV-10科教, http://183.203.182.117:9616/hls/10/index.m3u8
-CCTV-11戏曲, http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-11戏曲, http://39.164.160.249:9901/tsfile/live/0011_1.m3u8
 CCTV-12社会与法, http://183.203.182.117:9616/hls/12/index.m3u8
-CCTV-13新闻, http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-13新闻, http://39.164.160.249:9901/tsfile/live/0013_1.m3u8
 CCTV-14少儿, http://183.203.182.117:9616/hls/14/index.m3u8
-CCTV-15音乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-15音乐,http://39.164.160.249:9901/tsfile/live/0013_1.m3u8
 CCTV-16奥林匹克,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 
 重庆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
@@ -44,9 +44,15 @@ CCTV-16奥林匹克,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV
 宁夏卫视, http://183.203.182.117:9616/hls/34/index.m3u8
 新疆卫视,http://39.164.160.249:9901/tsfile/live/0110_1.m3u8
 内蒙古卫视,http://183.203.182.117:9616/hls/21/index.m3u8
-嘉佳卡通,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226539/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQDRyt1jaDU7f52NwPN526A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOLcRNi6C1PMX5tGrYl_SiR%2CEND
+少儿动画,http://183.66.15.146:60901/tsfile/live/0140_2.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://183.66.15.146:60901/tsfile/live/0117_2.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://183.66.15.146:60901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://183.66.15.146:60901/tsfile/live/0126_2.m3u8?key=txiptv&playlive=1&authid=0
 北京淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 北京淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 超级电影,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
+经典电影,http://183.66.15.146:60901/tsfile/live/0111_2.m3u8?key=txiptv&playlive=1&authid=0
+喜剧影院,http://183.66.15.146:60901/tsfile/live/0109_2.m3u8?key=txiptv&playlive=1&authid=0
+动作影院,http://183.66.15.146:60901/tsfile/live/0110_2.m3u8?key=txiptv&playlive=1&authid=0
 华数电影,http://183.203.182.117:9616/hls/6/index.m3u8
 电视剧,http://183.203.182.117:9616/hls/8/index.m3u8
