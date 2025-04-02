@@ -19,7 +19,7 @@ CCTV-15音乐,http://116.128.243.121:85/tsfile/live/0015_1.m3u8?key=txiptv
 北京卫视,http://183.203.182.117:9616/hls/16/index.m3u8
 东方卫视,http://183.203.182.117:9616/hls/17/index.m3u8
 江苏卫视,http://183.203.182.117:9616/hls/30/index.m3u8
-深圳卫视,http://183.66.15.146:60901/tsfile/live/0126_1.m3u8?key=txiptv
+深圳卫视,http://116.128.243.121:85/tsfile/live/0126_1.m3u8?key=txiptv
 浙江卫视,http://183.203.182.117:9616/hls/31/index.m3u8
 四川卫视,http://183.203.182.117:9616/hls/32/index.m3u8
 黑龙江卫视,http://183.203.182.117:9616/hls/20/index.m3u8
