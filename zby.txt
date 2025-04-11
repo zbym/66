@@ -3,11 +3,11 @@ CCTV-1综合,http://183.203.182.117:9616/hls/1/index.m3u8
 CCTV-2财经,http://183.203.182.117:9616/hls/2/index.m3u8
 CCTV-3综艺,http://183.203.182.117:9616/hls/3/index.m3u8
 CCTV-4中文国际,http://183.203.182.117:9616/hls/4/index.m3u8
-CCTV-5体育,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV-5体育,https://live.mxdyeah.top/live.php?id=cctv5HD
 CCTV-5+体育赛事,http://183.203.182.117:9616/hls/5/index.m3u8
-CCTV-6电影,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV-6电影,https://live.mxdyeah.top/live.php?id=cctv6HD
 CCTV-7军事农业,http://183.203.182.117:9616/hls/7/index.m3u8
-CCTV-8电视剧,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV-8电视剧,https://live.mxdyeah.top/live.php?id=cctv8HD
 CCTV-9记录,http://183.203.182.117:9616/hls/9/index.m3u8
 CCTV-10科教,http://183.203.182.117:9616/hls/10/index.m3u8
 CCTV-11戏曲,http://221.0.78.198:882/hls/15/index.m3u8
@@ -15,7 +15,7 @@ CCTV-12社会与法,http://183.203.182.117:9616/hls/12/index.m3u8
 CCTV-13新闻,http://183.203.182.117:9616/hls/13/index.m3u8
 CCTV-14少儿,http://183.203.182.117:9616/hls/14/index.m3u8
 CCTV-15音乐,http://221.0.78.198:882/hls/17/index.m3u8
-重庆卫视,http://221.0.78.198:882/hls/32/index.m3u8
+重庆卫视,https://live.mxdyeah.top/live.php?id=chongqingHD
 北京卫视,http://183.203.182.117:9616/hls/16/index.m3u8
 东方卫视,http://183.203.182.117:9616/hls/17/index.m3u8
 江苏卫视,http://183.203.182.117:9616/hls/30/index.m3u8
@@ -50,5 +50,6 @@ CCTV-15音乐,http://221.0.78.198:882/hls/17/index.m3u8
 经典电影,http://183.66.15.146:60901/tsfile/live/0111_2.m3u8?key=txiptv
 喜剧影院,http://183.66.15.146:60901/tsfile/live/0109_2.m3u8?key=txiptv
 动作影院,http://183.66.15.146:60901/tsfile/live/0110_2.m3u8?key=txiptv
-CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
-CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8
+CHC动作电影,https://live.mxdyeah.top/live.php?id=chcdzdyHD
+CHC家庭影院,https://live.mxdyeah.top/live.php?id=chcjtyyHD
+CHC影迷电影,https://live.mxdyeah.top/live.php?id=chcgqdyHD
