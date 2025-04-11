@@ -42,7 +42,7 @@ CCTV-15音乐,http://221.0.78.198:882/hls/17/index.m3u8
 青海卫视,http://183.203.182.117:9616/hls/33/index.m3u8
 宁夏卫视,http://183.203.182.117:9616/hls/34/index.m3u8
 内蒙古卫视,http://183.203.182.117:9616/hls/21/index.m3u8
-新疆卫视,http://39.164.160.249:9901/tsfile/live/0110_1.m3u8?key=txiptv
+
 金鹰卡通,http://183.66.15.146:60901/tsfile/live/0117_2.m3u8?key=txiptv
 嘉佳卡通,http://183.66.15.146:60901/tsfile/live/0119_1.m3u8?key=txiptv
 都市剧场,http://183.203.182.117:9616/hls/8/index.m3u8
