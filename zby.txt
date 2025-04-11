@@ -50,3 +50,5 @@ CCTV-15音乐,http://221.0.78.198:882/hls/17/index.m3u8
 经典电影,http://183.66.15.146:60901/tsfile/live/0111_2.m3u8?key=txiptv
 喜剧影院,http://183.66.15.146:60901/tsfile/live/0109_2.m3u8?key=txiptv
 动作影院,http://183.66.15.146:60901/tsfile/live/0110_2.m3u8?key=txiptv
+CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
+CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8
