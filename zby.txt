@@ -10,11 +10,11 @@ CCTV-7军事农业,http://183.203.182.117:9616/hls/7/index.m3u8
 CCTV-8电视剧,https://live.mxdyeah.top/live.php?id=cctv8HD
 CCTV-9记录,http://183.203.182.117:9616/hls/9/index.m3u8
 CCTV-10科教,http://183.203.182.117:9616/hls/10/index.m3u8
-CCTV-11戏曲,http://221.0.78.198:882/hls/15/index.m3u8
+CCTV-11戏曲,https://live.mxdyeah.top/live.php?id=cctv11HD
 CCTV-12社会与法,http://183.203.182.117:9616/hls/12/index.m3u8
-CCTV-13新闻,http://183.203.182.117:9616/hls/13/index.m3u8
+CCTV-13新闻,https://live.mxdyeah.top/live.php?id=CCTVNewsHD
 CCTV-14少儿,http://183.203.182.117:9616/hls/14/index.m3u8
-CCTV-15音乐,http://221.0.78.198:882/hls/17/index.m3u8
+CCTV-15音乐,https://live.mxdyeah.top/live.php?id=cctv15HD
 重庆卫视,https://live.mxdyeah.top/live.php?id=chongqingHD
 北京卫视,http://183.203.182.117:9616/hls/16/index.m3u8
 东方卫视,http://183.203.182.117:9616/hls/17/index.m3u8
