@@ -3,11 +3,11 @@ CCTV-1综合,http://183.203.182.117:9616/hls/1/index.m3u8
 CCTV-2财经,http://183.203.182.117:9616/hls/2/index.m3u8
 CCTV-3综艺,http://183.203.182.117:9616/hls/3/index.m3u8
 CCTV-4中文国际,http://183.203.182.117:9616/hls/4/index.m3u8
-CCTV-5体育,http://61.163.58.197:30083/api-playerlive-sc.skysrt.com/gd/105?apiKey=jadasdakcaxl
+CCTV-5体育,http://112.123.216.166:85/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV-5+体育赛事,http://183.203.182.117:9616/hls/5/index.m3u8
-CCTV-6电影,http://61.163.58.197:30083/api-playerlive-sc.skysrt.com/gd/12?apiKey=jadasdakcaxl
+CCTV-6电影,http://112.123.216.166:85/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-7军事农业,http://183.203.182.117:9616/hls/7/index.m3u8
-CCTV-8电视剧,http://61.163.58.197:30083/api-playerlive-sc.skysrt.com/gd/118?apiKey=jadasdakcaxl
+CCTV-8电视剧,http://112.123.216.166:85/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9记录,http://183.203.182.117:9616/hls/9/index.m3u8
 CCTV-10科教,http://183.203.182.117:9616/hls/10/index.m3u8
 CCTV-11戏曲,http://183.203.182.117:9616/hls/11/index.m3u8
@@ -23,7 +23,7 @@ CCTV风云剧场,https://live.mxdyeah.top/live.php?id=fyjcHD
 CCTV怀旧剧场,https://live.mxdyeah.top/live.php?id=hjjcHD
 CCTV兵器科技,https://live.mxdyeah.top/live.php?id=bqkjHD
 
-重庆卫视,http://61.163.58.197:30083/api-playerlive-sc.skysrt.com/gd/809?apiKey=jadasdakcaxl
+重庆卫视,http://112.123.216.166:85/tsfile/live/0142_1.m3u8?key=txiptv
 重庆新闻,https://live.mxdyeah.top/live.php?id=CQTVNewsHD
 重庆影视,https://live.mxdyeah.top/live.php?id=cqyingshiHD
 重庆文体娱乐,https://live.mxdyeah.top/live.php?id=cqwtylHD
