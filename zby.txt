@@ -10,13 +10,13 @@ CCTV-7军事农业,http://183.203.182.117:9616/hls/7/index.m3u8
 CCTV-8电视剧,http://61.163.58.197:30083/api-playerlive-sc.skysrt.com/gd/118?apiKey=jadasdakcaxl
 CCTV-9记录,http://183.203.182.117:9616/hls/9/index.m3u8
 CCTV-10科教,http://183.203.182.117:9616/hls/10/index.m3u8
-CCTV-11戏曲,http://61.163.58.197:30083/api-playerlive-sc.skysrt.com/gd/55?apiKey=jadasdakcaxl
+CCTV-11戏曲,http://183.203.182.117:9616/hls/11/index.m3u8
 CCTV-12社会与法,http://183.203.182.117:9616/hls/12/index.m3u8
-CCTV-13新闻,http://61.163.58.197:30083/api-playerlive-sc.skysrt.com/gd/5?apiKey=jadasdakcaxl
+CCTV-13新闻,http://183.203.182.117:9616/hls/13/index.m3u8
 CCTV-14少儿,http://183.203.182.117:9616/hls/14/index.m3u8
-CCTV-15音乐,http://61.163.58.197:30083/api-playerlive-sc.skysrt.com/gd/70?apiKey=jadasdakcaxl
+CCTV-15音乐,http://183.203.182.117:9616/hls/15/index.m3u8
 CCTV-16奥林匹克,https://live.mxdyeah.top/live.php?id=cctv16HD
-CCTV-17农业农村,http://61.163.58.197:30083/api-playerlive-sc.skysrt.com/gd/817?apiKey=jadasdakcaxl
+CCTV-17农业农村,https://live.mxdyeah.top/live.php?id=cctv17HD
 
 CCTV第一剧场,https://live.mxdyeah.top/live.php?id=diyijuchangHD
 CCTV风云剧场,https://live.mxdyeah.top/live.php?id=fyjcHD
@@ -54,7 +54,7 @@ CCTV兵器科技,https://live.mxdyeah.top/live.php?id=bqkjHD
 宁夏卫视,http://183.203.182.117:9616/hls/34/index.m3u8
 内蒙古卫视,http://183.203.182.117:9616/hls/21/index.m3u8
 新疆卫视,https://live.mxdyeah.top/live.php?id=xinjiangSD
-西藏卫视,http://61.163.58.197:30083/api-playerlive-sc.skysrt.com/gd/215?apiKey=jadasdakcaxl
+西藏卫视,https://live.mxdyeah.top/live.php?id=xizangSD
 
 金鹰卡通,https://live.mxdyeah.top/live.php?id=jinyingSD
 四海钓鱼,https://live.mxdyeah.top/live.php?id=diaoyu
