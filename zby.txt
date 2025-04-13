@@ -55,6 +55,8 @@ CCTV-15音乐,https://live.mxdyeah.top/live.php?id=cctv15HD
 新疆卫视,https://live.mxdyeah.top/live.php?id=xinjiangSD
 金鹰卡通,http://183.66.15.146:60901/tsfile/live/0117_2.m3u8?key=txiptv
 嘉佳卡通,http://183.66.15.146:60901/tsfile/live/0119_1.m3u8?key=txiptv
+快乐垂钓,https://live.mxdyeah.top/live.php?id=klcdHD
+四海钓鱼,https://live.mxdyeah.top/live.php?id=diaoyu
 都市剧场,http://183.203.182.117:9616/hls/8/index.m3u8
 华数电影,http://183.203.182.117:9616/hls/6/index.m3u8
 重温经典,https://live.mxdyeah.top/live.php?id=cwjdHD
