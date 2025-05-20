@@ -1,5 +1,5 @@
 直播,#genre#
-CCTV-1综合,http://183.203.182.117:9616/hls/1/index.m3u8
+CCTV-1综合,https://tv2.2cf.x10.mx/gx/3221225936/tv2.m3u8
 CCTV-2财经,http://183.203.182.117:9616/hls/2/index.m3u8
 CCTV-3综艺,http://116.128.243.121:85/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV-4中文国际,http://183.203.182.117:9616/hls/4/index.m3u8
