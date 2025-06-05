@@ -146,7 +146,6 @@ CCTV17,https://live.mxdyeah.top/live.php?id=cctv17HD
 环球奇观,https://live.mxdyeah.top/live.php?id=car
 生态环境,https://live.mxdyeah.top/live.php?id=shengtai
 发现之旅,https://live.mxdyeah.top/live.php?id=faxian
-车迷,https://live.mxdyeah.top/live.php?id=doxtv
 法治天地,https://live.mxdyeah.top/live.php?id=fazhi
 金色学堂,https://live.mxdyeah.top/live.php?id=jinse
 收藏天下,https://live.mxdyeah.top/live.php?id=soucang
