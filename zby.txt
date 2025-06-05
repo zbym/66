@@ -140,7 +140,6 @@ CCTV17,https://live.mxdyeah.top/live.php?id=cctv17HD
 求索纪录,https://live.mxdyeah.top/live.php?id=qsjlHD
 游戏风云,https://live.mxdyeah.top/live.php?id=yxfyHD
 书画,https://live.mxdyeah.top/live.php?id=shuhua
-新动漫,https://live.mxdyeah.top/live.php?id=dongman
 国学频道,https://live.mxdyeah.top/live.php?id=guoxue
 优优宝贝,https://live.mxdyeah.top/live.php?id=youxi
 中华特产,https://live.mxdyeah.top/live.php?id=techan
@@ -153,9 +152,8 @@ CCTV17,https://live.mxdyeah.top/live.php?id=cctv17HD
 收藏天下,https://live.mxdyeah.top/live.php?id=soucang
 财富天下,https://live.mxdyeah.top/live.php?id=caifu
 天元围棋,https://live.mxdyeah.top/live.php?id=weiqi
-先锋乒羽,https://live.mxdyeah.top/live.php?id=xianfeng
 环球旅游,https://live.mxdyeah.top/live.php?id=huanqiulvyou
-摄影频道,https://live.mxdyeah.top/live.php?id=sheying
+
 
 CHC动作电影,https://live.mxdyeah.top/live.php?id=chcdzdyHD
 CHC家庭影院,https://live.mxdyeah.top/live.php?id=chcjtyyHD
