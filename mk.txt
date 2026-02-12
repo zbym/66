@@ -1,5 +1,5 @@
 {
-    "spider": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260212/U9cw/02100849.png;"md5;83fb3cfa7bb7e1919a6c53b05c446f61",
+    "spider": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260212/U9cw/02100849.png";"md5;83fb3cfa7bb7e1919a6c53b05c446f61",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
     "sites": [
