@@ -1,5 +1,5 @@
 {
-    "spider": 
+    "spider": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260212/U9cw/02100849.png",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
     "sites": [
@@ -9,7 +9,8 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
-        },{"key":"极速资源",
+        },
+         {"key":"极速资源",
      "name":"🚄极速",
      "type":1,
      "api":"https://jszyapi.com/api.php/provide/vod/",
@@ -40,7 +41,7 @@
      "欧美动漫"
      ]
      },
-    {
+     {
       "key": "豪华资源",
       "name": "🎥豪华",
       "type": 1,
@@ -75,7 +76,7 @@
         "欧美综艺"
       ]
     },
-	{
+	    {
       "key": "索尼",
       "name": "🐶索尼",
       "type": 1,
@@ -113,7 +114,7 @@
         "预告片"
       ]
     },
-        {
+      {
             "key": "xml_火狐",
             "name": "🥟 火狐 ",
             "type": 1,
@@ -148,7 +149,8 @@
                 "日韩综艺",
                 "欧美综艺"
             ]
-        },{
+        },
+        {
             "key": "量子资源",
             "name": "🔃量子",
             "type": 1,
@@ -261,8 +263,8 @@
 				"日韩综艺",
 				"欧美综艺"
 			]
-		},
-        {
+		  },
+      {
             "key": "配置中心",
             "name": "配置｜中心",
             "type": 3,
